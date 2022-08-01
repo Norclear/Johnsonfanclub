@@ -1,0 +1,40 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #ffebcd;
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    transform: translateY(-200%);
+}
+
+.footer_text {
+    text-align: center;
+}
+
+
+.autograph {
+    width: 500px;
+    height: 750;
+}
+
+.div_auto {
+    transform: rotate(-20deg) translateY(500px) translateX(1000px);
+    
+}
+
+.johnson_img {
+    width: 500px;
+    height: 500px;
+    padding-left: 20px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bottom {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
